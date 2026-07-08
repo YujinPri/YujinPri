@@ -42,7 +42,7 @@
 **Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js" />
 </p>
 
 **Databases & Tools**
